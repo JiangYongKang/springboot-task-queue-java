@@ -37,3 +37,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+### Local task queue data (file H2 store) ###
+/data/
+
